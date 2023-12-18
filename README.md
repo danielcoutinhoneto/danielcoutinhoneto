@@ -26,7 +26,8 @@
    <img align="center" alt="DanielCoutNeto-DotNetCore" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
  <img align="center" alt="DanielCoutNeto-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="DanielCoutNeto-Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
- <img align="center" alt="DanielCoutNeto-SqlServe" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"/> 
+ <img align="center" alt="DanielCoutNeto-SqlServe" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Sql Serve"/> 
+ <img align="center" alt="DanielCoutNeto-SqlServe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql"/> 
 </div>
 
 <div align="center"><br>
