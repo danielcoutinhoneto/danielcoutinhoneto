@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou Analista de suporte
 - 🙏🏿 Estudando para migrar para área Desenvolvimento Software
-- 🌱 Estudando HTML, CSS, Javascript e C#
+- 🌱 Estudando HTML, CSS, Javascript, Angular, Typescript e C#
 - 😄 Pronouns: ele/dele
   
   ##
@@ -20,6 +20,8 @@
   <img align="center" alt="DanielCoutNeto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="DanielCoutNeto-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="DanielCoutNeto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="DanielCoutNeto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/angularjs-original-wordmark.svg">
+  <img align="center" alt="DanielCoutNeto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/typescript-original.svg">
   <img align="center" alt="DanielCoutNeto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="DanielCoutNeto-DotNetCore" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
  <img align="center" alt="DanielCoutNeto-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
