@@ -1,8 +1,8 @@
-## Olá sou, daniel Coutinho Neto!!!
+## Olá sou, Daniel Coutinho Neto!!!
 
-- 🔭 Atualmente sou Analista de suporte
-- 🙏🏿 Estudando para migrar para área Desenvolvimento Software
-- 🌱 Estudando HTML, CSS, Javascript, Angular, Typescript e C#
+- 🔭 Atualmente sou Analista de TI Pleno
+- 🙏🏿 Estudando para melhorar minhas Soft Skills e minhas Hard Skill como Dev
+- 🌱 Atualmente estudando HTML, CSS, Javascript, Angular, Typescript e C#
 - 😄 Pronouns: ele/dele
   
   ##
