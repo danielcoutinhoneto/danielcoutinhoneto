@@ -1,8 +1,8 @@
 ## Olá sou, Daniel Coutinho Neto!!!
 
-- 🔭 Atualmente sou Analista de TI Pleno
+- 🔭 Atualmente sou Desenvolvedor .NET
 - 🙏🏿 Estudando para melhorar minhas Soft Skills e minhas Hard Skill como Dev
-- 🌱 Atualmente estudando HTML, CSS, Javascript, Angular, Typescript e C#
+- 🌱 Atualmente estudando e trabalhando com .Net, C#, .Net Core, .Net Framework, SQL Server, HTML, CSS, Bootstrap 5 e Javascript.
 - 😄 Pronouns: ele/dele
   
   ##
